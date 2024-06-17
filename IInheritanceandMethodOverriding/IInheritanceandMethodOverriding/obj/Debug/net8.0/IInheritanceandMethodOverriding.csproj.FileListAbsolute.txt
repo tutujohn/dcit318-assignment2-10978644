@@ -1,0 +1,14 @@
+C:\Users\LAPTOP\source\repos\IInheritanceandMethodOverriding\IInheritanceandMethodOverriding\bin\Debug\net8.0\IInheritanceandMethodOverriding.exe
+C:\Users\LAPTOP\source\repos\IInheritanceandMethodOverriding\IInheritanceandMethodOverriding\bin\Debug\net8.0\IInheritanceandMethodOverriding.deps.json
+C:\Users\LAPTOP\source\repos\IInheritanceandMethodOverriding\IInheritanceandMethodOverriding\bin\Debug\net8.0\IInheritanceandMethodOverriding.runtimeconfig.json
+C:\Users\LAPTOP\source\repos\IInheritanceandMethodOverriding\IInheritanceandMethodOverriding\bin\Debug\net8.0\IInheritanceandMethodOverriding.dll
+C:\Users\LAPTOP\source\repos\IInheritanceandMethodOverriding\IInheritanceandMethodOverriding\bin\Debug\net8.0\IInheritanceandMethodOverriding.pdb
+C:\Users\LAPTOP\source\repos\IInheritanceandMethodOverriding\IInheritanceandMethodOverriding\obj\Debug\net8.0\IInheritanceandMethodOverriding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LAPTOP\source\repos\IInheritanceandMethodOverriding\IInheritanceandMethodOverriding\obj\Debug\net8.0\IInheritanceandMethodOverriding.AssemblyInfoInputs.cache
+C:\Users\LAPTOP\source\repos\IInheritanceandMethodOverriding\IInheritanceandMethodOverriding\obj\Debug\net8.0\IInheritanceandMethodOverriding.AssemblyInfo.cs
+C:\Users\LAPTOP\source\repos\IInheritanceandMethodOverriding\IInheritanceandMethodOverriding\obj\Debug\net8.0\IInheritanceandMethodOverriding.csproj.CoreCompileInputs.cache
+C:\Users\LAPTOP\source\repos\IInheritanceandMethodOverriding\IInheritanceandMethodOverriding\obj\Debug\net8.0\IInheritanceandMethodOverriding.dll
+C:\Users\LAPTOP\source\repos\IInheritanceandMethodOverriding\IInheritanceandMethodOverriding\obj\Debug\net8.0\refint\IInheritanceandMethodOverriding.dll
+C:\Users\LAPTOP\source\repos\IInheritanceandMethodOverriding\IInheritanceandMethodOverriding\obj\Debug\net8.0\IInheritanceandMethodOverriding.pdb
+C:\Users\LAPTOP\source\repos\IInheritanceandMethodOverriding\IInheritanceandMethodOverriding\obj\Debug\net8.0\IInheritanceandMethodOverriding.genruntimeconfig.cache
+C:\Users\LAPTOP\source\repos\IInheritanceandMethodOverriding\IInheritanceandMethodOverriding\obj\Debug\net8.0\ref\IInheritanceandMethodOverriding.dll
